@@ -1,0 +1,10 @@
+.inicio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &__titulo {
+        font-size: 2rem;
+        font-weight: bold;
+    }
+}
